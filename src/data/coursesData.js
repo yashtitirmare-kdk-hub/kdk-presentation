@@ -1,0 +1,46 @@
+// coursesData.js — BCA & MCA course details
+
+export const courses = [
+  {
+    id: "bca",
+    name: "BCA",
+    fullName: "Bachelor of Computer Applications",
+    duration: "3 Years (6 Semesters)",
+    eligibility: "10+2 (Any Stream)",
+    intake: "120 Seats",
+    fees: "As per Norms",
+    scholarship: "As per Government Scheme",
+    color: "from-cyan-500 to-blue-600",
+    icon: "🎓",
+    image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=80",
+    // highlights: [
+    //   "Programming: C, C++, Java, Python",
+    //   "Web & Mobile App Development",
+    //   "Database Management (SQL, MySQL)",
+    //   "Software Engineering & Design",
+    //   "Networking & Cybersecurity Basics",
+    //   "Internship & Project-Based Learning",
+    // ],
+  },
+  {
+    id: "mca",
+    name: "MCA",
+    fullName: "Master of Computer Applications",
+    duration: "2 Years (4 Semesters)",
+    eligibility: "Any Graduate",
+    intake: "240 Seats",
+    fees: "As per Norms",
+    scholarship: "As per Government Scheme",
+    color: "from-amber-400 to-orange-600",
+    icon: "🏆",
+    image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=600&q=80",
+    // highlights: [
+    //   "Advanced Java, Python, Cloud Computing",
+    //   "Artificial Intelligence & Machine Learning",
+    //   "Big Data & Data Science",
+    //   "Software Project Management",
+    //   "IoT, Blockchain & Emerging Tech",
+    //   "Research Projects & Industry Internships",
+    // ],
+  },
+];
