@@ -2,5 +2,5 @@
 import EventSlide from "../EventSlide";
 import { eventsSlides } from "../../data/eventsData";
 export default function Slide18EventSportsMeet() {
-  return <EventSlide event={eventsSlides[3]} slideNumber={18} />;
+  return <EventSlide event={eventsSlides[3]} slideNumber={34} />;
 }
