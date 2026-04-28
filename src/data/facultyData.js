@@ -109,7 +109,7 @@ export const faculty = [
     role: "Assistant Professor",
     qualification: "MCA",
     experience: "4 yrs",
-    subject: "Fucntional English",
+    subject: "Functional English",
     isHOD: false,
     image: vaishali,
     initials: "VS",
